@@ -1,0 +1,4 @@
+rpc自定义标签优化，加入ZookeeperUtil，搭建zhcrpc:reference 的动态代理架构
+
+test : com.cd.will.test.service.check.BeanCheck04.java
+       com.cd.will.test.util.ZookeeperTest.java

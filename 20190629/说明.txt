@@ -1,0 +1,3 @@
+rpc之实现自定义标签<zhcrpc:service>，通过spring管理类
+
+test : com.cd.will.test.service.check.BeanCheck02.java
