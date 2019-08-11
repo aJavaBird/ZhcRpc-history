@@ -1,4 +1,4 @@
-加入netty调用，初步实现RPC，但是其中的漏洞应该还挺多的。
+加入netty调用，初步实现RPC（序列化为jdk实现），但是其中的漏洞应该还挺多的。
 
 test : 运行前，需要先启动zookeeper。先运行server，再运行client：
        com.cd.will.test.service.rpctest.RpcServerTest.java
